@@ -1,4 +1,4 @@
-module mod
+module chess-bot
 
 go 1.23.2
 
